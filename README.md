@@ -8,4 +8,4 @@ Then to use the plugin, all you need to do is drag in the Blueprints to your sce
 <img width="403" height="550" alt="image" src="https://github.com/user-attachments/assets/49087fc5-a4c5-43f5-af1d-151133782547" />
 
 
-At the moment, the plugin isnt fully completed, there are a couple of small issues. The plugin is still downloadable to test, however the plugin should be fully released in a couple of days.
+
