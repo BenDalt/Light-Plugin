@@ -12,3 +12,5 @@ Also, if you run in to any errors, make sure that the the 'Light Above Player' a
 <img width="398" height="771" alt="Screenshot 2026-01-02 153357" src="https://github.com/user-attachments/assets/59a4206b-4c92-405b-9c6a-b2e7f45cfb64" />
 
 <img width="426" height="1031" alt="Screenshot 2026-01-02 153510" src="https://github.com/user-attachments/assets/c70f3fc3-6113-4e62-90d7-363c2d26c577" />
+
+If any nodes are still not working then you would just need to delete them and replace them back.
